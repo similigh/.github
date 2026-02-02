@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/similigh/simili-bot/main/assets/logo.png" alt="Simili Logo" width="120">
+  <img src="assets/logo.png" alt="Simili Logo" width="120">
 </p>
 
 <h1 align="center">Simili</h1>
