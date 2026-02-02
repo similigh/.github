@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Simili Logo" width="120">
+  <img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/3c9a3e6d-ca26-464a-a744-987b774ded9c" />
 </p>
 
 <h1 align="center">Simili</h1>
