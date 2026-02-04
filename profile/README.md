@@ -33,7 +33,7 @@ We create open-source tools that make managing GitHub issues smarter and more ef
 | Project | Description |
 |---------|-------------|
 | [simili-bot](https://github.com/similigh/simili-bot) | GitHub Action & CLI for issue intelligence |
-| [simili-docs](https://github.com/similigh/docs) | Official documentation for Simili |
+| [docs](https://github.com/similigh/docs) | Official documentation for Simili |
 | [simili-vscode](https://github.com/similigh/simili-vscode) | VS Code extension for Simili configuration and debugging |
 | [simili-sdk](https://github.com/similigh/simili-sdk) | Official SDKs for integrating with Simili (Go, Python, TypeScript) |
 | [simili-cli](https://github.com/similigh/simili-cli) | Command-line interface for Simili |
