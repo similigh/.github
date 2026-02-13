@@ -8,7 +8,7 @@
           <a href="https://github.com/similigh/simili-bot"><img src="https://img.shields.io/badge/simili--bot-v0.1.5-orange?style=flat-square" alt="simili-bot"></a>
           <a href="https://simili.mintlify.app/"><img src="https://img.shields.io/badge/docs-mintlify-blue?style=flat-square" alt="documentation"></a>
         </p>
-        <p>Open-source tools that make managing GitHub issues smarter and more efficient using AI.</p>
+        <p>Open-source tool that make managing GitHub issues and Cross Repository Triage smarter and more efficient using semantic analysis.</p>
       </td>
       <td width="40%" align="right">
         <img width="200" alt="logo" src="https://github.com/user-attachments/assets/3c9a3e6d-ca26-464a-a744-987b774ded9c" />
