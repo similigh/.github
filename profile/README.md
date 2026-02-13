@@ -5,7 +5,7 @@
         <h1>Simili</h1>
         <p><strong>AI-Powered Tools for GitHub Issue Intelligence</strong></p>
         <p>
-          <a href="https://github.com/similigh/simili-bot"><img src="https://img.shields.io/badge/simili--bot-v0.1.0-orange?style=flat-square" alt="simili-bot"></a>
+          <a href="https://github.com/similigh/simili-bot"><img src="https://img.shields.io/badge/simili--bot-v0.1.5-orange?style=flat-square" alt="simili-bot"></a>
           <a href="https://simili.mintlify.app/"><img src="https://img.shields.io/badge/docs-mintlify-blue?style=flat-square" alt="documentation"></a>
         </p>
         <p>Open-source tools that make managing GitHub issues smarter and more efficient using AI.</p>
@@ -34,9 +34,6 @@ We create open-source tools that make managing GitHub issues smarter and more ef
 |---------|-------------|
 | [simili-bot](https://github.com/similigh/simili-bot) | GitHub Action & CLI for issue intelligence |
 | [docs](https://github.com/similigh/docs) | Official documentation for Simili |
-| [simili-vscode](https://github.com/similigh/simili-vscode) | VS Code extension for Simili configuration and debugging |
-| [simili-sdk](https://github.com/similigh/simili-sdk) | Official SDKs for integrating with Simili (Go, Python, TypeScript) |
-| [simili-cli](https://github.com/similigh/simili-cli) | Command-line interface for Simili |
 
 ## Documentation
 
